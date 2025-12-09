@@ -1,4 +1,4 @@
-#👋 Hi, I'm Kriti Kapoor
+#👋 𝐇𝐢, 𝐈'𝐦 𝐊𝐫𝐢𝐭𝐢 𝐊𝐚𝐩𝐨𝐨𝐫
 
 I'm an ex-medical student and now a proud fresher at K.R. Mangalam University, pursuing BCA (AI & Data Science). I’m passionate about blending creativity with technology—from coding and AI to drawing, sketching, debate, anchoring, and dance.
 
@@ -6,7 +6,7 @@ This repository showcases my projects, skills, and journey as I continue learnin
 
 ---
 
-#🚀 About Me
+#🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 .🎓 Course: BCA (Artificial Intelligence & Data Science)
 
@@ -34,7 +34,7 @@ This repository showcases my projects, skills, and journey as I continue learnin
 
   ---
 
- #🛠️ Projects
+ #🛠️ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 Here are some of the projects I’ve worked on:
 
@@ -56,7 +56,7 @@ A research-based or technical project exploring cloudburst phenomena, causes, im
 
 ---
 
-  #📚 Skills & Tools
+  #📚 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬
 
   * Programming: Python, HTML, CSS
 
@@ -68,7 +68,7 @@ A research-based or technical project exploring cloudburst phenomena, causes, im
 
   ---
 
-  #🎯 Current Focus
+  #🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
 
    * Building a strong foundation in AI & Data Science
 
@@ -80,7 +80,7 @@ A research-based or technical project exploring cloudburst phenomena, causes, im
    
 ---
 
-   #📬 Connect With Me
+   #📬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
 
 If you're interested in collaborating, helping with projects, or just connecting, feel free to reach out!
 Mail 👉✉️:- kritikapoor2929@gmail.com
