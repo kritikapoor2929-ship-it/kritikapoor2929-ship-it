@@ -34,7 +34,7 @@ This repository showcases my projects, skills, and journey as I continue learnin
 
   ---
 
-  🛠️ Projects
+ #🛠️ Projects
 
 Here are some of the projects I’ve worked on:
 
@@ -56,7 +56,7 @@ A research-based or technical project exploring cloudburst phenomena, causes, im
 
 ---
 
-  📚 Skills & Tools
+  #📚 Skills & Tools
 
   * Programming: Python, HTML, CSS
 
@@ -68,7 +68,7 @@ A research-based or technical project exploring cloudburst phenomena, causes, im
 
   ---
 
-  🎯 Current Focus
+  #🎯 Current Focus
 
    * Building a strong foundation in AI & Data Science
 
@@ -80,8 +80,9 @@ A research-based or technical project exploring cloudburst phenomena, causes, im
    
 ---
 
-   📬 Connect With Me
+   #📬 Connect With Me
 
 If you're interested in collaborating, helping with projects, or just connecting, feel free to reach out!
+Mail 👉✉️:- kritikapoor2929@gmail.com
 
 
